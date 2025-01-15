@@ -6,7 +6,7 @@ const ulEl = document.getElementById("ul-el")
 
 let inputData = document.getElementById("input-el").value;
 
-
+// testing
 
 inputBtn.addEventListener("click", function() {
     let inputData = document.getElementById("input-el").value;
