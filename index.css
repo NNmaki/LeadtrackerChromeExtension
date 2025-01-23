@@ -23,6 +23,16 @@ input {
     border: 1px solid #5f9341;
 }
 
+#tab-btn{
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    background-color: #5f9341;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #5f9341;
+}
+
 #delete-btn{
     font-weight: 700;
     padding: 10px 20px 10px 20px;
